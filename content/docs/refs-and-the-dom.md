@@ -283,7 +283,7 @@ class Parent extends React.Component {
 
 > Примітка:
 >
-> Якщо ви досі користуєтесь `this.refs.textInput` для доступу до рефів, ми рекомендуємо натомість користовуватися [рефами зворотнього виклику](#callback-refs) або [`createRef` API](#creating-refs).
+> Якщо ви досі користуєтесь `this.refs.textInput` для доступу до рефів, ми рекомендуємо натомість користуватися [рефами зворотнього виклику](#callback-refs) або [`createRef` API](#creating-refs).
 
 ### Застереження до рефів зворотнього виклику {#caveats-with-callback-refs}
 
